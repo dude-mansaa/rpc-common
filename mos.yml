@@ -33,7 +33,7 @@ cdefs:
   MGOS_ENABLE_SYS_SERVICE: 1
 
 libs:
-  - origin: https://github.com/mongoose-os-libs/http-server
+  - origin: https://github.com/dude-mansaa/http-server
     weak: true
 
 tags:
